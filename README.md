@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-fruux is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://fruux.com/
+fruux provides a cloud‑based synchronization service that unifies contacts, calendars, tasks and notes across devices and platforms for individuals and teams. It offers secure, real‑time syncing, sharing, and collaboration features, supporting iOS, Android, macOS, Windows, and web clients. The service emphasizes privacy, data ownership, and easy integration with existing productivity tools.
+
+**Areas:** sync · contacts · calendars · tasks · collaboration · Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://fruux.com/)
+- [Documentation](https://fruux.com/developers/)
+- [API reference](https://fruux.com/api/)
+- [Pricing](https://fruux.com/pricing/)
+- [Security](https://fruux.com/security/)
+- [Terms of service](https://fruux.com/terms-of-service/)
+- [Privacy policy](https://fruux.com/privacy/)
+- [GitHub](https://github.com/fruux)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/fruux/](https://apis.io/providers/fruux/).
